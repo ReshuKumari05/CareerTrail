@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Tracker Pro</title>
+
+    <style>
+
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Segoe UI,sans-serif;
+        }
+
+        body{
+            background:#f4f7fc;
+        }
+
+        .container{
+            width:100%;
+            min-height:100vh;
+
+            display:flex;
+            justify-content:center;
+            align-items:center;
+        }
+
+        .card{
+
+            background:white;
+            padding:50px;
+            border-radius:20px;
+
+            box-shadow:0 5px 20px rgba(0,0,0,0.1);
+
+            text-align:center;
+            width:450px;
+        }
+
+        h1{
+            color:#2563eb;
+            margin-bottom:15px;
+        }
+
+        p{
+            color:gray;
+            margin-bottom:30px;
+        }
+
+        .btn{
+
+            display:block;
+
+            text-decoration:none;
+
+            background:#2563eb;
+
+            color:white;
+
+            padding:15px;
+
+            margin-top:15px;
+
+            border-radius:10px;
+
+            transition:0.3s;
+        }
+
+        .btn:hover{
+            background:#1d4ed8;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <h1>Job Tracker Pro</h1>
+
+        <p>
+            Track all your job applications in one place
+        </p>
+
+        <a href="/add" class="btn">
+            Add Application
+        </a>
+
+        <a href="/applications" class="btn">
+            View Applications
+        </a>
+
+    </div>
+
+</div>
+
+</body>
+</html>
