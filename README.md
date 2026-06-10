@@ -112,21 +112,29 @@ src
 
 
 ### Dashboard
+<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/ea4dee6e-3c08-4a67-b9fb-3957fac832d5" />
+
 
 * Application overview
 * Search functionality
 * Status tracking
 
 ### Analytics
+<img width="1907" height="840" alt="image" src="https://github.com/user-attachments/assets/a03bcaa4-cba5-419a-84d9-e2f4fba8e10e" />
+
 
 * Pie chart visualization
 * Application statistics
 
+### Add-Applications
+<img width="1701" height="862" alt="image" src="https://github.com/user-attachments/assets/2cbde8fa-2beb-407d-a69e-166e9a13fda0" />
+Users can add new job applications by entering company details, role information, application source, status, interview schedule, and personal notes for better organization.
+
+
 ### Profile
+<img width="1727" height="806" alt="image" src="https://github.com/user-attachments/assets/4fa32050-882e-4d15-9c77-08ceba14f3d9" />
+The profile section allows users to manage personal information, current company, role, experience level, and location. Profile data is stored persistently and linked to the authenticated user account.
 
-* User profile management
-
----
 
 ## Future Improvements
 
